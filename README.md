@@ -1,7 +1,7 @@
 # 2023.11.03
 
 ## 網址
-https://peterjackson0107.github.io/20231103-sweetHTMLPractice/
+https://peterjackson0107.github.io/20231103-dessertHTML/
 
 ## 專案技術
 - HTML
