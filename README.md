@@ -1,9 +1,9 @@
-# 2023.11.03
+# 2023.11.03 (第三次練習HTML基本排版) (三回目HTML練習)
 
-## 網址
+## 網址 (ウェブ)
 https://peterjackson0107.github.io/20231103-dessertHTML/
 
-## 專案技術
+## 專案技術 (プログラミング言語)
 - HTML
 - CSS
 - SCSS
@@ -24,11 +24,11 @@ https://peterjackson0107.github.io/20231103-dessertHTML/
 
 * 可以先用**Figma**先做大致切版
 
-## 參考版面
+## 參考版面 (参考資料)
 ![image](https://github.com/peterjackson0107/20231103HomeWork3/assets/151004314/b950a728-a753-4c45-b557-623d60c53b4b)
 
 
-## 畫面
+## 畫面 (画面)
 * 初めて見た時、難しかったです
 
 ![image](https://github.com/peterjackson0107/20231103HomeWork3/assets/151004314/e5f19e1c-c3b1-4293-9deb-45256328c232)
